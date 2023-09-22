@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ExamenMPP</string>
+    <string name="formAddButton">Agregar</string>
+    <string name="formTitle">Agrega un nuevo lugar a visitar</string>
+    <string name="formNombre">Nombre del lugar</string>
+    <string name="formOrder">Orden de visita programado</string>
+    <string name="formUrl">Url referencia</string>
+    <string name="formLongitude">Longitud</string>
+    <string name="formLatitude">Latitud</string>
+    <string name="formAloj">Costo alojamiento por noche</string>
+    <string name="formTrans">Costo transporte</string>
+    <string name="formComm">Comentarios</string>
+
+    <string name="title_activity_form_edit" />
+    <string name="title_activity_details" />
+</resources>

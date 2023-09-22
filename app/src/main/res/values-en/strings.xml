@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ExamenMPP</string>
+    <string name="formAddButton">Add</string>
+    <string name="formTitle">Add a new place to visit</string>
+    <string name="formNombre">Name of the place</string>
+    <string name="formOrder">Order of visit to be scheduled</string>
+    <string name="formUrl">Reference Url</string>
+    <string name="formLongitude">Longitude</string>
+    <string name="formLatitude">Latitude</string>
+    <string name="formAloj">Accomodation cost per night</string>
+    <string name="formTrans">Transportation cost</string>
+    <string name="formComm">Comments</string>
+</resources>
